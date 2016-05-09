@@ -1,5 +1,5 @@
 var userDay = prompt("What day is today?");
-Switch(useDay){
+switch(useDay){
 		case "Monday":
 			console.log("Get enough coffee and survive");
 			break;
